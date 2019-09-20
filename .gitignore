@@ -1,0 +1,8 @@
+/build/
+/dist/
+/disassembly/
+/nbproject/private/
+/nbproject/Makefile-local*
+/nbproject/Makefile-variables*
+/nbproject/Makefile-genesis*
+/nbproject/Package*
